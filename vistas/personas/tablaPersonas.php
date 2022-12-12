@@ -11,7 +11,7 @@
             <th>Nombre</th>
             <th>Telefono</th>
             <th>Editar</th>
-            <th>ELiminar</th>
+            <th>Eliminar</th>
         </tr>
     </thead>
     <?php while ($ver = mysqli_fetch_array($respuesta)) { ?>
